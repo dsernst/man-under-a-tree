@@ -20,3 +20,8 @@ section {
 p {
   font-size: 22px;
 }
+
+.youtube_embed {
+	margin: 0 auto;
+	display: block;
+}
