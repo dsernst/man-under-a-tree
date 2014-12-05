@@ -4,6 +4,14 @@ body {
 	font-family: Helvetica;
 }
 
+h1 {
+	text-align: center;
+}
+
 div {
 	margin: 100px 0;
+}
+
+p {
+  font-size: 22px;
 }
